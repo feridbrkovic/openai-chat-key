@@ -6,7 +6,7 @@ This project is a chatbot that uses OpenAI's GPT-3 API to generate responses to 
 
 ## How To Get Started
 
-In the project directory, you can run:
+In the project directory, you can:
 
 ### Install Dependencies
 
